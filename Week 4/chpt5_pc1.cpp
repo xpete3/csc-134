@@ -22,8 +22,7 @@ int user_number,
         total += i;
     }
 
-    cout << "Total = " 
-         << total ;
+    cout << "Total = " << total ;
 
     return 0;
     
